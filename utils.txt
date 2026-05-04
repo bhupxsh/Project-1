@@ -1,1 +1,1 @@
-utility func for v23456
+utility function for my practice session
